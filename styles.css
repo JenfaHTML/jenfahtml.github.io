@@ -1,11 +1,10 @@
-body{
-    background-image: url('images/IMG_5206.JPG');
-}
 
 .test {
     text-align: center;
 }
 
 h1 {
-    color: brown;
+    color: blue;
+    text-align: center;
+    background-color: red;
 }
